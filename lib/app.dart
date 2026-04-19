@@ -5,6 +5,7 @@ class getxImplementation extends StatelessWidget {
   const getxImplementation({super.key});
 
   @override
+  //build function
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
